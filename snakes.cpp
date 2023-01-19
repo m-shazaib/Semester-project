@@ -1,3 +1,6 @@
+//A snake game with limited functionalities.
+
+
 #include<iostream>
 #include <conio.h>
 #include<Windows.h>
